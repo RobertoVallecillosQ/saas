@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-saasquasar-dev-ce146-authRole",
+      "UnauthRoleArn": "arn:aws:iam::442723061207:role/amplify-saasquasar-dev-ce146-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::442723061207:role/amplify-saasquasar-dev-ce146-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-saasquasar-dev-ce146-deployment",
+      "UnauthRoleName": "amplify-saasquasar-dev-ce146-unauthRole",
+      "StackName": "amplify-saasquasar-dev-ce146",
+      "StackId": "arn:aws:cloudformation:us-west-2:442723061207:stack/amplify-saasquasar-dev-ce146/a157a8e0-082a-11ef-b9af-0298612f2b9d",
+      "AmplifyAppId": "d19qbr1kcykqek"
+    }
+  }
+}
